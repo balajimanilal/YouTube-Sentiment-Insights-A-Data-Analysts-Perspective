@@ -1,4 +1,4 @@
-# Sentiment and Engagement Analysis of YouTube Video Comments
+# YouTube Sentiment Insights: A Data Analysts Perspective
 
 This project presents a comprehensive analysis of sentiment and emoji usage within YouTube comments, providing valuable insights into viewer engagement and emotional responses. Leveraging Python libraries such as Pandas, NumPy, Matplotlib, Seaborn, TextBlob, and WordCloud, the project explores a dataset of YouTube comments to extract sentiment polarity and identify prevalent emojis.
 
